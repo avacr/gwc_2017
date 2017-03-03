@@ -7,3 +7,9 @@ it's Jocelyn!!!
 its Kara
 hello this is priya
 this is line #2
+this is Alison!
+hello this is priya
+this is samantha!!
+its gretchen yo #sisterhood 
+this is line number 1
+
