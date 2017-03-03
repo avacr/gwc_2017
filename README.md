@@ -17,4 +17,8 @@ karalie
 yes ava im happy with that.
 hello it's isha
 hi its anna :)
+<<<<<<< HEAD
 hi it's isabel
+=======
+hey its abby!
+>>>>>>> e2775e9b8d252f6d8baeabd39290c701c1e59c20
