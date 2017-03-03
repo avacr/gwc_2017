@@ -4,5 +4,16 @@ hello! Celia was here
 hi! this is ava.
 hey this is Leyla
 it's Jocelyn!!!
+its Kara
 hello this is priya
 this is wild
+this is line #2
+this is Alison!
+hello this is priya
+this is samantha!!
+its gretchen yo #sisterhood 
+this is line number 1
+karalie
+yes ava im happy with that.
+hello it's isha
+hi its anna :)
