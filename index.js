@@ -1,1 +1,2 @@
-window.alert('hi');
+var fname = document.getElementById ("fname")
+window.alert(fname);
